@@ -5,12 +5,32 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
 
 ## Solucion 
 ir al sitio web rapidtables
- picoCTF{p}
+
+ ```
+ picoCTF{p} 
+ ```
+ 
+ 
 
 
 ## solucion 2
 
-abrir el interprete de 
+abrir el interprete de pytho en cylab 
+convertir 0x70 a int
+
+int(0x70)
+
+112
+
+chr(112)
+
+p
+```
+picoCTF{p} 
+```
+
+
+## rey 
 
 ## notas adicionales
 siempre tener en cuenta el formato
