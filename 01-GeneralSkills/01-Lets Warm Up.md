@@ -30,8 +30,6 @@ picoCTF{p}
 ```
 
 
-## rey 
-
 ## notas adicionales
 siempre tener en cuenta el formato
 ## referencias

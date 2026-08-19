@@ -6,6 +6,15 @@
 - ibarravaldezjesus99@gmail.com
 
 ## General Skills
-- reto 1
+- 01-Lets Warm Up
+- 02-2Warm  
+- 03-Warmed Up  
+- 04-Bases
+- 05-First Grep
+- 06-Obedient Cat
+- 07-what's a net cat?
+- 08-plumbing
+- 09-Glitch Cat
+- 10-Nice netcat...
 ## web
 
