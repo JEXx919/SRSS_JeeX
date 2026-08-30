@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GeneralSkills/30-Serpentine.md",
+                "file": "01-GeneralSkills/40-ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30-Serpentine"
+              "title": "40-ASCII Numbers"
             }
           }
         ],
@@ -244,8 +244,20 @@
   },
   "active": "dc8a4b99ce80a490",
   "lastOpenFiles": [
-    "01-GeneralSkills/29-PW Crack 3.md",
+    "01-GeneralSkills/39-binhexa.md",
+    "01-GeneralSkills/40-ASCII Numbers.md",
+    "01-GeneralSkills/38-binary search.md",
+    "01-GeneralSkills/37-collaborative development.md",
+    "01-GeneralSkills/36-blame game.md",
+    "01-GeneralSkills/34-committee issue.md",
+    "01-GeneralSkills/35-time machine.md",
+    "01-GeneralSkills/33-special.md",
+    "01-GeneralSkills/32-chrono.md",
+    "01-GeneralSkills/31-permissions.md",
     "01-GeneralSkills/30-Serpentine.md",
+    "Plantilla.md",
+    "README.md",
+    "01-GeneralSkills/29-PW Crack 3.md",
     "01-GeneralSkills/28-PW Crack 2.md",
     "01-GeneralSkills/27-PW Crack 1.md",
     "01-GeneralSkills/26-fixme2.py.md",
@@ -254,22 +266,10 @@
     "01-GeneralSkills/23-Codebook.md",
     "01-GeneralSkills/22-runme.py.md",
     "01-GeneralSkills/21-Super SSH.md",
-    "Plantilla.md",
-    "README.md",
     "01-GeneralSkills/20-First Find.md",
     "01-GeneralSkills/19-Big zip.md",
     "01-GeneralSkills/18-repetitions.md",
     "01-GeneralSkills/17-Magikarp Ground Mission.md",
-    "01-GeneralSkills/16-Tab, Tab, Attack.md",
-    "01-GeneralSkills/15-useless.md",
-    "01-GeneralSkills/14-Static ain't always noise.md",
-    "01-GeneralSkills/13-Wave a flag.md",
-    "01-GeneralSkills/12-strings it.md",
-    "01-GeneralSkills/11-Based.md",
-    "01-GeneralSkills/10-Nice netcat....md",
-    "01-GeneralSkills/09-Glitch Cat.md",
-    "01-GeneralSkills/08-Plumbing.md",
-    "01-GeneralSkills/07-what's a net cat.md",
     "01-GeneralSkills"
   ]
 }
