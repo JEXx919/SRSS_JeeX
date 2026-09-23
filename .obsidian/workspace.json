@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GeneralSkills/49-Scavenger Hunt.md",
+                "file": "01-GeneralSkills/52-JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49-Scavenger Hunt"
+              "title": "52-JaWT Scratchpad"
             }
           }
         ]
@@ -187,12 +187,22 @@
   },
   "active": "5aa3379e15bd1967",
   "lastOpenFiles": [
-    "01-GeneralSkills/48-Cookies.md",
+    "01-GeneralSkills/51-More SQLi.md",
+    "01-GeneralSkills/50-Irish-Name-Repo 1.md",
     "01-GeneralSkills/47-GET aHEAD.md",
-    "01-GeneralSkills/46-Client-side-again.md",
-    "01-GeneralSkills/49-Scavenger Hunt.md",
     "Plantilla.md",
     "README.md",
+    "01-GeneralSkills/52-JaWT Scratchpad.md",
+    "01-GeneralSkills/56-Most Cookies.md",
+    "01-GeneralSkills/55-Trickster.md",
+    "Pasted image 20260902110853.png",
+    "Pasted image 20260902110829.png",
+    "Pasted image 20260902110641.png",
+    "01-GeneralSkills/54-SOAP.md",
+    "01-GeneralSkills/53-MatchTheRegex.md",
+    "01-GeneralSkills/49-Scavenger Hunt.md",
+    "01-GeneralSkills/48-Cookies.md",
+    "01-GeneralSkills/46-Client-side-again.md",
     "01-GeneralSkills/18-repetitions.md",
     "01-GeneralSkills/44-dont-use-client-side.md",
     "01-GeneralSkills/45-picobrowser.md",
@@ -202,24 +212,14 @@
     "01-GeneralSkills/40-ASCII Numbers.md",
     "Pasted image 20260902110647.png",
     "01-GeneralSkills/01-Lets Warm Up.md",
-    "Pasted image 20260902110829.png",
-    "Pasted image 20260902110853.png",
     "01-GeneralSkills/19-Big zip.md",
     "01-GeneralSkills/21-Super SSH.md",
-    "Pasted image 20260902110641.png",
     "Pasted image 20260902110657.png",
     "Pasted image 20260902110802.png",
     "Pasted image 20260902110751.png",
     "01-GeneralSkills/39-binhexa.md",
     "01-GeneralSkills/38-binary search.md",
     "01-GeneralSkills/37-collaborative development.md",
-    "01-GeneralSkills/36-blame game.md",
-    "01-GeneralSkills/34-committee issue.md",
-    "01-GeneralSkills/35-time machine.md",
-    "01-GeneralSkills/33-special.md",
-    "01-GeneralSkills/32-chrono.md",
-    "01-GeneralSkills/31-permissions.md",
-    "01-GeneralSkills/30-Serpentine.md",
     "01-GeneralSkills"
   ]
 }
