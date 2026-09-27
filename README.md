@@ -40,7 +40,7 @@
 - 29-PW Crack 3
 - 30-Serpentine
 ## 4 
-#### Tarea #1 
+## Tarea #1 
 - 31-permissions
 - 32-chrono
 - 33-special
@@ -67,3 +67,24 @@ Noe un clash royale o que pd?
 - 47-GET aHEAD
 - 48-Cookies
 - 49-Scavenger Hunt
+
+## 3
+- 50-Irish-Name-Repo 1
+- 51-More SQLi
+- 52-JaWT Scratchpad
+## 4
+- 53-MatchTheRegex
+- 54-SOAP
+- 55-Trickster
+- 56-Most Cookies
+## Tarea numero 2
+- 57-Includes
+- 58-Inspect HTML
+- 59-IntroToBurp
+- 60-Local Authority
+- 61-Power Cookie
+- 62-Roboto Sans
+- 63-Secrets
+- 64-SQLiLite
+- 65-Unminify
+- 66-WebDecode
