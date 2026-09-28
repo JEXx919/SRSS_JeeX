@@ -88,3 +88,10 @@ Noe un clash royale o que pd?
 - 64-SQLiLite
 - 65-Unminify
 - 66-WebDecode
+
+## Forensic 1
+- 67-Glory of the Garden
+- 68-So Meta
+- 69-shark on wire 1
+- 70-extensions
+- 71-What Lies Within
