@@ -95,3 +95,10 @@ Noe un clash royale o que pd?
 - 69-shark on wire 1
 - 70-extensions
 - 71-What Lies Within
+
+## Forensic 2
+- 72-m00nwalk
+- 73-WhitePages
+- 74-c0rrupt
+- 75-like1000
+- 76-shark on wire 2
