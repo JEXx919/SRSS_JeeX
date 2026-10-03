@@ -102,3 +102,13 @@ Noe un clash royale o que pd?
 - 74-c0rrupt
 - 75-like1000
 - 76-shark on wire 2
+
+# Primer Examen Parcial
+## parte 2 web
+- 1-Bookmarklet
+- 2-Cookie Monster Secret Recipe
+- 3-findme
+- 4-head-dump
+- 5-Java Code Analysis!?!
+- 6-n0s4n1ty 1
+- 7-SQL Direct
