@@ -1,8 +1,8 @@
-## Descripcion
+## Descripción
 Help us test the form by submiting the username as `test` and password as `test!` The website running [here](http://xebec.cylabacademy.net:47639/).
 
 any redirections?
-## solucion 
+## solución
 ![[Pasted image 20261002203010.png]]
 Actividad sin iniciar sesión.
 ![[Pasted image 20261002203816.png]]

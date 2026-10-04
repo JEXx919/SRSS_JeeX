@@ -1,10 +1,10 @@
-## Descripcion
+## Descripción
 Connect to this PostgreSQL server and find the flag! `psql -h xebec.cylabacademy.net -p 44403 -U postgres pico`
 
 Password is `postgres`
 
 What does a SQL database contain?
-## solucion 
+## solución 
 
 ![[Pasted image 20261003153933.png]]
 ![[Pasted image 20261003153957.png]]

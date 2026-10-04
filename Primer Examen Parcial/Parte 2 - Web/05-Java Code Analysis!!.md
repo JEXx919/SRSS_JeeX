@@ -18,7 +18,7 @@ The 'role' and 'userId' fields in the JWT can be of interest to you!
 The 'controllers', 'services' and 'security' java packages in the given source code might need your attention. We've provided a README.md file that contains some documentation.
 
 Upgrade your 'role' with the _new_ (cracked) JWT. And re-login for the new role to get reflected in browser's localStorage.
-## solucin 
+## solución
 Ir al sitio y iniciar sesion con los datos que nos dan
 ![[Pasted image 20261003114414.png]]
 
