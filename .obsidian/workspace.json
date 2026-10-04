@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Examen Parcial/1-Bookmarklet.md",
+                "file": "Primer Examen Parcial/Parte 1 - General Skills/09 - SnasAlpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Bookmarklet"
+              "title": "09 - SnasAlpha"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 351.5
   },
   "right": {
     "id": "7bc7afd67e507a8d",
@@ -187,6 +187,17 @@
   },
   "active": "851b7a890b5df93e",
   "lastOpenFiles": [
+    "Primer Examen Parcial/Parte 1 - General Skills/08 - Rust fixme 3.md",
+    "Primer Examen Parcial/Parte 1 - General Skills/07 - Rust fixme 1.md",
+    "Primer Examen Parcial/Parte 1 - General Skills/09 - SnasAlpha.md",
+    "Primer Examen Parcial/Parte 1 - General Skills/06 - Python Wrangling.md",
+    "Primer Examen Parcial/Parte 1 - General Skills/05 - HashingJobApp.md",
+    "Primer Examen Parcial/Parte 1 - General Skills/04 - FANTASY CTF.md",
+    "Primer Examen Parcial/Parte 1 - General Skills/03 - flag_shop.md",
+    "Primer Examen Parcial/Parte 1 - General Skills/02 - Wave a flag.md",
+    "01-GeneralSkills/13-Wave a flag.md",
+    "Primer Examen Parcial/Parte 1 - General Skills/01 - dont-you-love-banners.md",
+    "2026-10-03.md",
     "Pasted image 20261003155910.png",
     "Primer Examen Parcial/7-SQL Direct.md",
     "Primer Examen Parcial/1-Bookmarklet.md",
@@ -204,8 +215,6 @@
     "Pasted image 20261003150840.png",
     "Pasted image 20261003150453.png",
     "Pasted image 20261003150256.png",
-    "Pasted image 20261003145226.png",
-    "2026-10-03.md",
     "README.md",
     "Plantilla.md",
     "01-GeneralSkills/75-like1000.md",
@@ -215,16 +224,7 @@
     "01-GeneralSkills/73-WhitePages.md",
     "01-GeneralSkills/72-m00nwalk.md",
     "01-GeneralSkills/71-What Lies Within.md",
-    "01-GeneralSkills/02-2Warm.md",
     "01-GeneralSkills/Sin nombre",
-    "01-GeneralSkills/69-shark on wire 1.md",
-    "01-GeneralSkills/70-extensions.md",
-    "01-GeneralSkills/68-So Meta.md",
-    "01-GeneralSkills/67-Glory of the Garden.md",
-    "01-GeneralSkills/66-WebDecode.md",
-    "01-GeneralSkills/65-Unminify.md",
-    "01-GeneralSkills/64-SQLiLite.md",
-    "01-GeneralSkills/49-Scavenger Hunt.md",
     "01-GeneralSkills"
   ]
 }
