@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GeneralSkills/78-Webnet1.md",
+                "file": "01-GeneralSkills/53-MatchTheRegex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "78-Webnet1"
+              "title": "53-MatchTheRegex"
             }
           }
         ]
@@ -187,21 +187,23 @@
   },
   "active": "851b7a890b5df93e",
   "lastOpenFiles": [
-    "Pasted image 20261005224950.png",
-    "Pasted image 20261005224903.png",
-    "Pasted image 20261005224813.png",
-    "Pasted image 20261005224750.png",
+    "01-GeneralSkills/52-JaWT Scratchpad.md",
+    "Pasted image 20261005234121.png",
+    "Pasted image 20261005234010.png",
+    "Pasted image 20261005232355.png",
+    "Pasted image 20261005232330.png",
+    "01-GeneralSkills/51-More SQLi.md",
+    "Pasted image 20261005232014.png",
+    "Pasted image 20261005231852.png",
+    "Pasted image 20261005231634.png",
+    "Pasted image 20261005231513.png",
+    "Pasted image 20261005231302.png",
+    "Pasted image 20261005231215.png",
+    "01-GeneralSkills/50-Irish-Name-Repo 1.md",
+    "01-GeneralSkills/78-Webnet1.md",
     "01-GeneralSkills/81-MacroHard WeakEdge.md",
     "01-GeneralSkills/80-tunn3l v1s10n.md",
     "01-GeneralSkills/79-Matryoshka doll.md",
-    "01-GeneralSkills/78-Webnet1.md",
-    "Pasted image 20261005222753.png",
-    "Pasted image 20261005222736.png",
-    "Pasted image 20261005222659.png",
-    "Pasted image 20261005222621.png",
-    "Pasted image 20261005222519.png",
-    "Pasted image 20261005222234.png",
-    "Pasted image 20261005222143.png",
     "01-GeneralSkills/77-WebNet0.md",
     "01-GeneralSkills/76-shark on wire 2.md",
     "01-GeneralSkills/75-like1000.md",
@@ -221,8 +223,6 @@
     "Primer Examen Parcial/Parte 1 - General Skills/10-Specialer.md",
     "Primer Examen Parcial/Parte 1 - General Skills/08 - Rust fixme 3.md",
     "Primer Examen Parcial/Parte 1 - General Skills/0 - Rust fixme 3.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/09 - SnasAlpha.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/07-Rust fixme 2.md",
     "Primer Examen Parcial",
     "01-GeneralSkills/Sin nombre",
     "01-GeneralSkills"
