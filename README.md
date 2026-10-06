@@ -112,3 +112,10 @@ Noe un clash royale o que pd?
 - 5-Java Code Analysis!?!
 - 6-n0s4n1ty 1
 - 7-SQL Direct
+
+## Forensic 3
+- 77-WebNet0
+- 78-Webnet1
+- 79-Matryoshka doll
+- 80-tunn3l v1s10n
+- 81-MacroHard WeakEdge

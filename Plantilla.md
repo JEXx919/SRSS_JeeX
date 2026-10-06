@@ -1,6 +1,6 @@
-## Descripcion
+## Descripción
 
-## solucion 
+## solución 
 ```
 ```
 
