@@ -119,3 +119,10 @@ Noe un clash royale o que pd?
 - 79-Matryoshka doll
 - 80-tunn3l v1s10n
 - 81-MacroHard WeakEdge
+# Forensic 4
+- 81-Milkslap
+- 82-Disk, disk, sleuth!
+- 83-Sleuthkit Intro
+- 84-Sleuthkit Apprentice
+- 85-Operation Orchid
+- 86-Operation Oni

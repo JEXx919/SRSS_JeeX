@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GeneralSkills/53-MatchTheRegex.md",
+                "file": "Forensic 4/86-Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "53-MatchTheRegex"
+              "title": "86-Operation Oni"
             }
           }
         ]
@@ -187,6 +187,16 @@
   },
   "active": "851b7a890b5df93e",
   "lastOpenFiles": [
+    "Forensic 4/81-Milkslap.md",
+    "Forensic 4/86-Operation Oni.md",
+    "Forensic 4/82-Disk, disk, sleuth!.md",
+    "Forensic 4/83-Sleuthkit Intro.md",
+    "Forensic 4/84-Sleuthkit Apprentice.md",
+    "Forensic 4/85-Operation Orchid.md",
+    "Plantilla.md",
+    "README.md",
+    "01-GeneralSkills/53-MatchTheRegex.md",
+    "Forensic 4",
     "01-GeneralSkills/52-JaWT Scratchpad.md",
     "Pasted image 20261005234121.png",
     "Pasted image 20261005234010.png",
@@ -213,16 +223,7 @@
     "Primer Examen Parcial/Parte 2 - Web/04-head-dump.md",
     "Primer Examen Parcial/Parte 2 - Web/03-findme.md",
     "Primer Examen Parcial/Parte 2 - Web/02-Cookie Monster Secret Recipe.md",
-    "Plantilla.md",
-    "README.md",
     "Primer Examen Parcial/Parte 2 - Web/10 - WebSockFish.md",
-    "Primer Examen Parcial/Parte 2 - Web/09 - SSTI2.md",
-    "Primer Examen Parcial/Parte 2 - Web/08 - SSTI1.md",
-    "Primer Examen Parcial/Parte 2 - Web/07-SQL Direct.md",
-    "Primer Examen Parcial/Parte 2 - Web/01-Bookmarklet.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/10-Specialer.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/08 - Rust fixme 3.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/0 - Rust fixme 3.md",
     "Primer Examen Parcial",
     "01-GeneralSkills/Sin nombre",
     "01-GeneralSkills"
