@@ -126,3 +126,13 @@ Noe un clash royale o que pd?
 - 84-Sleuthkit Apprentice
 - 85-Operation Orchid
 - 86-Operation Oni
+## Crypto - Parte 1
+
+- 87-The numbers
+- 88-13
+- 89-Caesar
+- 90-Easy1
+- 91-la cifra de
+- 92-Tapping
+- 93-waves over lambda 
+- 94-interencdec
