@@ -136,3 +136,19 @@ Noe un clash royale o que pd?
 - 92-Tapping
 - 93-waves over lambda 
 - 94-interencdec
+
+
+
+
+## Crypto - Parte 2
+- 95- rsa-pop-quiz
+# Tarea 4 - Forensic
+- 96-information
+- 97-St3g0
+- 98-Redaction gone wrong
+- 99-hideme
+- 100-Scan Surprise
+- 101-CanYouSee
+- 102-Secret of the Polyglot
+- 103-RED
+- 104-Ph4nt0m 1ntrud3r
