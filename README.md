@@ -153,8 +153,16 @@ Noe un clash royale o que pd?
 - 103-RED
 - 104-Ph4nt0m 1ntrud3r
 
-## Crypto - Parte 2
+## Crypto - Parte 3
 - 105-Mini RSA 
 - 106-Mind your Ps and Qs
 - 107-b00tl3gRSA2
 - 108-b00tl3gRSA3
+
+## Crypto - Parte 4
+
+- 109-Pixelated
+- 110-basic-mod1
+- 111-HideToSee
+- 112-ReadMyCert
+- 113-flags
