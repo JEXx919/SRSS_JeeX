@@ -166,3 +166,14 @@ Noe un clash royale o que pd?
 - 111-HideToSee
 - 112-ReadMyCert
 - 113-flags
+## Tarea 5 - Crypto
+- 114-Crack the Power
+- 115-credstuff
+- 116-EVEN RSA CAN BE BROKEN???
+- 117-hashcrack
+- 118-morse-code
+- 119-rail-fence
+- 120-substitution0
+- 121-substitution1
+- 122-substitution2
+- 123-Vigenere
