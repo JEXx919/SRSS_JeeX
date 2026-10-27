@@ -177,3 +177,10 @@ Noe un clash royale o que pd?
 - 121-substitution1
 - 122-substitution2
 - 123-Vigenere
+
+## Reversing Parte 1
+- 124-vault-door-training
+- 125-vault-door-1
+- 126-vault-door-3
+- 127-vault-door-4
+- 128-vault-door-5
