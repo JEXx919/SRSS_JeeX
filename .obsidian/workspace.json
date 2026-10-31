@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "851b7a890b5df93e",
+            "id": "d9f37ba4289370b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing - Parte 1/128-vault-door-5.md",
+                "file": "Segundo Examen Parcial/Parte 2 - Crypto/143-transposition-trial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "128-vault-door-5"
+              "title": "143-transposition-trial"
+            }
+          },
+          {
+            "id": "bceb3d6aa7bde984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -185,53 +199,52 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "851b7a890b5df93e",
+  "active": "d9f37ba4289370b9",
   "lastOpenFiles": [
-    "Reversing - Parte 1/127-vault-door-4.md",
-    "Reversing - Parte 1/126-vault-door-3.md",
-    "Reversing - Parte 1/125-vault-door-1.md",
-    "Reversing - Parte 1/124-vault-door-training.md",
-    "Reversing - Parte 1/128-vault-door-5.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/142-Shared Secrets.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/141-StegoRSA.md",
+    "Pasted image 20261030234817.png",
+    "Segundo Examen Parcial/Parte 2 - Crypto/140-rotation.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/139-basic-mod2.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/138-DISKO 4.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/137-Timeline 1.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/136-Timeline 0.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/135-Binary Digits.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/134-Corrupted file.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/133-Flag in Flame.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/132-Hidden in plainsight.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/131-Riddle Registry.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/130-Enhance!.md",
+    "Segundo Examen Parcial/Parte 1 - Forensic/129-Lookey here.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/148-rsa_oracle.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/147-Related Messages.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/146-Small Trouble.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/145-Timestamped Secrets.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/144-Custom encryption.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/143-transposition-trial.md",
     "Plantilla.md",
     "README.md",
+    "Segundo Examen Parcial/Sin título.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto",
+    "Segundo Examen Parcial/Parte 1 - Forensic",
+    "Segundo Examen Parcial/Parte 1 - Forensic.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto.md",
+    "Pasted image 20260926202912.png",
+    "Segundo Examen Parcial",
     "Pasted image 20260926202925.png",
     "Reversing - Parte 1",
-    "Tarea 5 - Crypto/123-Vigenere.md",
-    "Tarea 5 - Crypto/120-substitution0.md",
-    "Tarea 5 - Crypto/121-substitution1.md",
-    "Tarea 5 - Crypto/122-substitution2.md",
-    "Tarea 5 - Crypto/119-rail-fence.md",
-    "Tarea 5 - Crypto/118-morse-code.md",
     "Pasted image 20261024232759.png",
-    "Tarea 5 - Crypto/117-hashcrack.md",
-    "Tarea 5 - Crypto/116-EVEN RSA CAN BE BROKEN.md",
-    "Crypto - parte 3/107-b00tl3gRSA2.md",
-    "Crypto - parte 2/95-rsa-pop-quiz.md",
-    "Crypto - parte 3/108-b00tl3gRSA3.md",
-    "Crypto - parte 3/106-Mind your Ps and Qs.md",
-    "Crypto - parte 3/105-Mini RSA.md",
-    "Tarea 5 - Crypto/115-credstuff.md",
-    "Tarea 5 - Crypto/114-Crack the Power.md",
-    "Crypto - parte 4/109-Pixelated.md",
-    "Crypto - parte 4/112-ReadMyCert.md",
     "Pasted image 20260926201235.png",
     "Tarea 5 - Crypto",
     "Pasted image 20261021125052.png",
-    "Crypto - parte 4/110-basic-mod1.md",
-    "Crypto - parte 4/111-HideToSee.md",
     "Pasted image 20261021121400.png",
     "Pasted image 20261021121357.png",
     "Crypto - parte 4",
     "Crypto - parte 3",
     "Pasted image 20261017234421.png",
     "Pasted image 20261017232953.png",
-    "Pasted image 20261002194238.png",
     "Tarea 4 - Forensic",
-    "Pasted image 20260926202912.png",
     "Crypto - parte 2",
-    "Crypto - Parte 1",
-    "Forensic 4",
-    "Primer Examen Parcial",
-    "01-GeneralSkills/Sin nombre"
+    "Crypto - Parte 1"
   ]
 }

@@ -184,3 +184,29 @@ Noe un clash royale o que pd?
 - 126-vault-door-3
 - 127-vault-door-4
 - 128-vault-door-5
+
+
+# Segundo Examen Parcial
+#### Parte 1 - Forensic
+- 129-Lookey here
+- 130-Enhance!
+- 131-Riddle Registry
+- 132-Hidden in plainsight
+- 133-Flag in Flame
+- 134-Corrupted file
+- 135-Binary Digits
+- 136-Timeline 0
+- 137-Timeline 1
+- 138-DISKO 4
+
+#### Parte 2 - Crypto
+- 139-basic-mod2
+- 140-rotation
+- 141-StegoRSA
+- 142-Shared Secrets
+- 143-transposition-trial
+- 144-Custom encryption
+- 145-Timestamped Secrets
+- 146-Small Trouble
+- 147-Related Messages
+- 148-rsa_oracle
