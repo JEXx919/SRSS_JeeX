@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Examen Parcial/Parte 2 - Crypto/143-transposition-trial.md",
+                "file": "Segundo Examen Parcial/Parte 2 - Crypto/139-basic-mod2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "143-transposition-trial"
+              "title": "139-basic-mod2"
             }
           },
           {
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.5
   },
   "right": {
     "id": "7bc7afd67e507a8d",
@@ -201,10 +201,15 @@
   },
   "active": "d9f37ba4289370b9",
   "lastOpenFiles": [
-    "Segundo Examen Parcial/Parte 2 - Crypto/142-Shared Secrets.md",
-    "Segundo Examen Parcial/Parte 2 - Crypto/141-StegoRSA.md",
-    "Pasted image 20261030234817.png",
     "Segundo Examen Parcial/Parte 2 - Crypto/140-rotation.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/141-StegoRSA.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/142-Shared Secrets.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/143-transposition-trial.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/144-Custom encryption.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/145-Timestamped Secrets.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/146-Small Trouble.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/147-Related Messages.md",
+    "Segundo Examen Parcial/Parte 2 - Crypto/148-rsa_oracle.md",
     "Segundo Examen Parcial/Parte 2 - Crypto/139-basic-mod2.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/138-DISKO 4.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/137-Timeline 1.md",
@@ -216,12 +221,7 @@
     "Segundo Examen Parcial/Parte 1 - Forensic/131-Riddle Registry.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/130-Enhance!.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/129-Lookey here.md",
-    "Segundo Examen Parcial/Parte 2 - Crypto/148-rsa_oracle.md",
-    "Segundo Examen Parcial/Parte 2 - Crypto/147-Related Messages.md",
-    "Segundo Examen Parcial/Parte 2 - Crypto/146-Small Trouble.md",
-    "Segundo Examen Parcial/Parte 2 - Crypto/145-Timestamped Secrets.md",
-    "Segundo Examen Parcial/Parte 2 - Crypto/144-Custom encryption.md",
-    "Segundo Examen Parcial/Parte 2 - Crypto/143-transposition-trial.md",
+    "Pasted image 20261030234817.png",
     "Plantilla.md",
     "README.md",
     "Segundo Examen Parcial/Sin título.md",
