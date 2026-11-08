@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Examen Parcial/Parte 2 - Crypto/139-basic-mod2.md",
+                "file": "Reversing - Parte 2/154-Picker IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "139-basic-mod2"
+              "title": "154-Picker IV"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Reversing - Parte 2/149-Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "149-Safe Opener 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +200,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d9f37ba4289370b9",
+  "active": "bceb3d6aa7bde984",
   "lastOpenFiles": [
+    "Reversing - Parte 2/150-timer.md",
+    "Reversing - Parte 2/151-Picker I.md",
+    "Reversing - Parte 2/152-Picker II.md",
+    "Reversing - Parte 2/153-Picker III.md",
+    "Reversing - Parte 2/154-Picker IV.md",
+    "Reversing - Parte 2/149-Safe Opener 2.md",
+    "Plantilla.md",
+    "README.md",
+    "Pasted image 20260926202925.png",
+    "Reversing - Parte 2",
+    "Segundo Examen Parcial/Parte 2 - Crypto/139-basic-mod2.md",
     "Segundo Examen Parcial/Parte 2 - Crypto/140-rotation.md",
     "Segundo Examen Parcial/Parte 2 - Crypto/141-StegoRSA.md",
     "Segundo Examen Parcial/Parte 2 - Crypto/142-Shared Secrets.md",
@@ -210,7 +222,6 @@
     "Segundo Examen Parcial/Parte 2 - Crypto/146-Small Trouble.md",
     "Segundo Examen Parcial/Parte 2 - Crypto/147-Related Messages.md",
     "Segundo Examen Parcial/Parte 2 - Crypto/148-rsa_oracle.md",
-    "Segundo Examen Parcial/Parte 2 - Crypto/139-basic-mod2.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/138-DISKO 4.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/137-Timeline 1.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/136-Timeline 0.md",
@@ -219,19 +230,11 @@
     "Segundo Examen Parcial/Parte 1 - Forensic/133-Flag in Flame.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/132-Hidden in plainsight.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/131-Riddle Registry.md",
-    "Segundo Examen Parcial/Parte 1 - Forensic/130-Enhance!.md",
-    "Segundo Examen Parcial/Parte 1 - Forensic/129-Lookey here.md",
     "Pasted image 20261030234817.png",
-    "Plantilla.md",
-    "README.md",
-    "Segundo Examen Parcial/Sin título.md",
     "Segundo Examen Parcial/Parte 2 - Crypto",
     "Segundo Examen Parcial/Parte 1 - Forensic",
-    "Segundo Examen Parcial/Parte 1 - Forensic.md",
-    "Segundo Examen Parcial/Parte 2 - Crypto.md",
     "Pasted image 20260926202912.png",
     "Segundo Examen Parcial",
-    "Pasted image 20260926202925.png",
     "Reversing - Parte 1",
     "Pasted image 20261024232759.png",
     "Pasted image 20260926201235.png",
@@ -244,7 +247,6 @@
     "Pasted image 20261017234421.png",
     "Pasted image 20261017232953.png",
     "Tarea 4 - Forensic",
-    "Crypto - parte 2",
-    "Crypto - Parte 1"
+    "Crypto - parte 2"
   ]
 }

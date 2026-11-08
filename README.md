@@ -210,3 +210,11 @@ Noe un clash royale o que pd?
 - 146-Small Trouble
 - 147-Related Messages
 - 148-rsa_oracle
+
+##  Reversing - Parte 2
+- 149-Safe Opener 2
+- 150-timer
+- 151-Picker I
+- 152-Picker II
+- 153-Picker III
+- 154-Picker IV
