@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing - Parte 2/149-Safe Opener 2.md",
+                "file": "Reversing - Parte 3/157-asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "149-Safe Opener 2"
+              "title": "157-asm3"
             }
           }
         ],
@@ -202,14 +202,20 @@
   },
   "active": "bceb3d6aa7bde984",
   "lastOpenFiles": [
+    "Reversing - Parte 3/156-asm2.md",
+    "Reversing - Parte 3/155-asm1.md",
+    "Reversing - Parte 3/157-asm3.md",
+    "Pasted image 20261109112729.png",
+    "Plantilla.md",
+    "README.md",
+    "Pasted image 20260926214214.png",
+    "Reversing - Parte 3",
+    "Reversing - Parte 2/149-Safe Opener 2.md",
     "Reversing - Parte 2/150-timer.md",
     "Reversing - Parte 2/151-Picker I.md",
     "Reversing - Parte 2/152-Picker II.md",
     "Reversing - Parte 2/153-Picker III.md",
     "Reversing - Parte 2/154-Picker IV.md",
-    "Reversing - Parte 2/149-Safe Opener 2.md",
-    "Plantilla.md",
-    "README.md",
     "Pasted image 20260926202925.png",
     "Reversing - Parte 2",
     "Segundo Examen Parcial/Parte 2 - Crypto/139-basic-mod2.md",
@@ -226,10 +232,6 @@
     "Segundo Examen Parcial/Parte 1 - Forensic/137-Timeline 1.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/136-Timeline 0.md",
     "Segundo Examen Parcial/Parte 1 - Forensic/135-Binary Digits.md",
-    "Segundo Examen Parcial/Parte 1 - Forensic/134-Corrupted file.md",
-    "Segundo Examen Parcial/Parte 1 - Forensic/133-Flag in Flame.md",
-    "Segundo Examen Parcial/Parte 1 - Forensic/132-Hidden in plainsight.md",
-    "Segundo Examen Parcial/Parte 1 - Forensic/131-Riddle Registry.md",
     "Pasted image 20261030234817.png",
     "Segundo Examen Parcial/Parte 2 - Crypto",
     "Segundo Examen Parcial/Parte 1 - Forensic",
@@ -244,9 +246,6 @@
     "Pasted image 20261021121357.png",
     "Crypto - parte 4",
     "Crypto - parte 3",
-    "Pasted image 20261017234421.png",
-    "Pasted image 20261017232953.png",
-    "Tarea 4 - Forensic",
-    "Crypto - parte 2"
+    "Tarea 4 - Forensic"
   ]
 }

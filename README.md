@@ -218,3 +218,8 @@ Noe un clash royale o que pd?
 - 152-Picker II
 - 153-Picker III
 - 154-Picker IV
+
+# Reversing - Parte 3
+- 155-asm1
+- 156-asm2
+- 157-asm3
